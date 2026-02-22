@@ -35,3 +35,4 @@ npm-debug.log*
 # Temp files
 renderHTML.tsx
 .agent/skills/ui-ux-pro-max-skill/
+package-lock.json
