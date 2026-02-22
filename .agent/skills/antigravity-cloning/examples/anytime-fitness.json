@@ -1,0 +1,167 @@
+{
+    "_comment": "Example config for Anytime Fitness Jabalpur — used as reference for future clones",
+    "business_name": "Anytime Fitness Jabalpur",
+    "city": "Jabalpur",
+    "industry": "gym",
+    "logo_url": "https://www.anytimefitness.co.in/wp-content/uploads/2022/02/anytime-fitness-logo-6.png",
+    "logo_html": "<img src=\"https://www.anytimefitness.co.in/wp-content/uploads/2022/02/anytime-fitness-logo-6.png\" alt=\"Anytime Fitness Logo\" class=\"h-10 w-auto brightness-0 invert\">",
+    "brand_primary": "#523CE0",
+    "brand_hover": "#3E28B8",
+    "brand_light": "#9B8AFF",
+    "bg_color": "#0F0D1A",
+    "surface_color": "#1A172B",
+    "surface_light": "#252240",
+    "hero_headline_white": "Strengthen Everything",
+    "hero_headline_gradient": "From Calves to Confidence.",
+    "hero_description": "At Anytime Fitness Jabalpur, Hathital, the support is real and it starts the moment we meet. Our coaches develop a plan that fits you — a total fitness experience designed around your abilities, your body, and your goals.",
+    "cta_text": "Try Us For Free",
+    "service_tags": [
+        "24/7 Access",
+        "Personal Coaching",
+        "Zumba",
+        "Functional Training",
+        "Cardio",
+        "Dance Fitness"
+    ],
+    "google_rating": "4.6",
+    "review_count": "205",
+    "about_headline_white": "Build Something",
+    "about_headline_gradient": "Stronger",
+    "about_description": "Join our community and get a personalized plan that works the way you want. Your plan will contain a 360 approach to your health with coaching, nutrition guidance, and 24/7 access to our premium facility.",
+    "stats": [
+        {
+            "value": "24",
+            "suffix": "/7",
+            "label": "Access"
+        },
+        {
+            "value": "205",
+            "suffix": "+",
+            "label": "Reviews"
+        },
+        {
+            "value": "4.6",
+            "suffix": "★",
+            "label": "Google Rating"
+        },
+        {
+            "value": "3",
+            "suffix": "+",
+            "label": "Expert Coaches"
+        }
+    ],
+    "amenities": [
+        {
+            "icon": "dumbbell",
+            "title": "Strength / Free Weights",
+            "desc": "Barbells, dumbbells, circuit/selectorized machines, and a full plate-loaded rack system."
+        },
+        {
+            "icon": "flame",
+            "title": "Functional Training",
+            "desc": "Battle ropes, BOSU balls, kettlebells, TRX suspension, and plyometric boxes."
+        },
+        {
+            "icon": "heart-pulse",
+            "title": "Cardio Zone",
+            "desc": "Elliptical cross-trainers, exercise cycles, rowing machines, and treadmills."
+        },
+        {
+            "icon": "music",
+            "title": "Zumba & Dance Fitness",
+            "desc": "High-energy group sessions including Aerobics, Zumba, and Dance Fitness classes."
+        },
+        {
+            "icon": "shield-check",
+            "title": "24-Hour Security",
+            "desc": "Train at any hour with peace of mind. Full CCTV coverage and electronic access control."
+        },
+        {
+            "icon": "smartphone",
+            "title": "AF Coaching App",
+            "desc": "Connect with your coach anytime, anywhere. Get nutrition guidance and workout tracking."
+        }
+    ],
+    "trainers": [
+        {
+            "name": "Shiva Singh Rathore",
+            "role": "Staff — MXM Coach",
+            "focus": "Member Experience & Motivation",
+            "img": "https://images.unsplash.com/photo-1567013127542-490d757e51fc?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "name": "Aman Jat",
+            "role": "Personal Trainer",
+            "focus": "Strength Training & Body Transformation",
+            "img": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "name": "Chetan Rajpoot",
+            "role": "Gold PT — Trainer",
+            "focus": "Advanced Coaching & Performance",
+            "img": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=1000&auto=format&fit=crop"
+        }
+    ],
+    "testimonials": [
+        {
+            "quote": "Best gym in Jabalpur! The 24/7 access is a game-changer for my schedule. The coaches really care about your progress.",
+            "author": "Saurabh M.",
+            "initial": "S",
+            "since": "Member since 2023"
+        },
+        {
+            "quote": "The Zumba and Dance Fitness classes are absolutely amazing! High energy, great music. I've lost 8kg in 4 months.",
+            "author": "Neha R.",
+            "initial": "N",
+            "since": "Member since 2024"
+        },
+        {
+            "quote": "Clean facility, professional staff, and the app integration makes tracking so easy. Worth every rupee.",
+            "author": "Vivek P.",
+            "initial": "V",
+            "since": "Member since 2022"
+        }
+    ],
+    "pricing": [
+        {
+            "name": "Starter",
+            "price": "₹1,499",
+            "desc": "Essential package for regular workouts.",
+            "features": [
+                "24/7 gym access",
+                "Basic fitness assessment",
+                "Locker & shower access"
+            ]
+        },
+        {
+            "name": "Pro",
+            "price": "₹2,499",
+            "desc": "Full coaching and class access included.",
+            "features": [
+                "Everything in Starter",
+                "Unlimited group classes",
+                "AF Coaching App access"
+            ]
+        },
+        {
+            "name": "Elite",
+            "price": "₹3,999",
+            "desc": "Full personal training & nutrition coaching.",
+            "features": [
+                "Everything in Pro",
+                "4 personal training sessions/month",
+                "Personalized nutrition plan",
+                "Monthly body composition analysis"
+            ]
+        }
+    ],
+    "phone_number": "+91 75660 66601",
+    "whatsapp_number": "917566066601",
+    "whatsapp_message": "Hi%2C%20I%27m%20interested%20in%20joining%20Anytime%20Fitness%20Jabalpur.%20Can%20I%20get%20more%20details%3F",
+    "address_line_1": "48, Narmada Road, Gorakhpur",
+    "address_line_2": "Thana Road, above VLCC",
+    "address_line_3": "Hathital, Jabalpur MP 482001",
+    "google_maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3668.3!2d79.95!3d23.17!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3981adc9eb68aa8b%3A0xc38f03a724748fad!2sAnytime%20Fitness!5e0!3m2!1sen!2sin",
+    "page_title": "Anytime Fitness Jabalpur | 24/7 Gym in Hathital",
+    "meta_description": "Welcome to Anytime Fitness Jabalpur, Hathital. Your neighborhood 24-hour gym. Whether you're a beginner or a fitness regular, we'll help you get to a healthier place."
+}
